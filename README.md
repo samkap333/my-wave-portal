@@ -18,3 +18,6 @@ Replit -https://replit.com/@TubaMahmood/waveportal-starter-project?v=1
 
 
 final output - https://waveportal-starter-project.tubamahmood.repl.co/
+
+
+![finalss](https://user-images.githubusercontent.com/68690619/187137351-fcfb5523-42d9-41c5-b888-84ce3157a290.png)
