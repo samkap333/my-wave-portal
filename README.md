@@ -13,5 +13,8 @@ npx hardhat node
 node scripts/sample-script.js
 npx hardhat help
 ```
-Replit -(https://replit.com/@TubaMahmood/waveportal-starter-project?v=1)
-final output - (https://waveportal-starter-project.tubamahmood.repl.co/)
+
+Replit -https://replit.com/@TubaMahmood/waveportal-starter-project?v=1
+
+
+final output - https://waveportal-starter-project.tubamahmood.repl.co/
